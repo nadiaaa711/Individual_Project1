@@ -1,0 +1,6 @@
+1. WB from ACC to LOS 0 stops.
+2. WB from LOS to KGL 0 stops.
+3. WB from KGL to NBO 0 stops.
+4. XU from NBO to MGQ 0 stops.
+5. XU from MGQ to WJR 0 stops.
+Total flights: 5Total additional stops: 0
